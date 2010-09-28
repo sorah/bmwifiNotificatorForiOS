@@ -1,5 +1,7 @@
 # bmwifiNotificatorForiOS / Check status of b-mobile wifi (bm-mf30) for iOS
 
+<a href="http://www.flickr.com/photos/10848496@N02/5031217217/" title="bmwifiNotificator in iOS by sora_h, on Flickr"><img src="http://farm5.static.flickr.com/4144/5031217217_ee5cddfa53_z.jpg" width="640" height="480" alt="bmwifiNotificator in iOS" /></a>
+
 This software is modified version of [OSX version](http://github.com/sorah/bmwifiNotificator).
 
 ## Description
