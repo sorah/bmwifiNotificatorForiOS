@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'bmwifiNotificatorForiOS' target in the 'bmwifiNotificatorForiOS' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
